@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/face-ocr/static/css/main.f9153531.css",
+    "main.js": "/face-ocr/static/js/main.777319fc.js",
+    "static/js/787.be00e44a.chunk.js": "/face-ocr/static/js/787.be00e44a.chunk.js",
+    "service-worker.js": "/face-ocr/service-worker.js",
+    "index.html": "/face-ocr/index.html",
+    "main.f9153531.css.map": "/face-ocr/static/css/main.f9153531.css.map",
+    "main.777319fc.js.map": "/face-ocr/static/js/main.777319fc.js.map",
+    "787.be00e44a.chunk.js.map": "/face-ocr/static/js/787.be00e44a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9153531.css",
+    "static/js/main.777319fc.js"
+  ]
+}
